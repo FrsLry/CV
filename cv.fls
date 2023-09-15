@@ -1,6 +1,6 @@
-PWD C:\Users\leroy\Desktop\phd_folder\CV
+PWD C:\Users\leroy\OneDrive - CZU v Praze\phd_folder\CV
 INPUT C:\Users\leroy\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\leroy\Desktop\phd_folder\CV\cv.tex
+INPUT c:\Users\leroy\OneDrive - CZU v Praze\phd_folder\CV\cv.tex
 OUTPUT cv.log
 INPUT .\moderncv.cls
 INPUT .\moderncv.cls
