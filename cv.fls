@@ -854,7 +854,6 @@ INPUT .\pictures\MNHN-logo.jpg
 INPUT .\pictures\MNHN-logo.jpg
 INPUT .\pictures\MNHN-logo.jpg
 INPUT .\pictures\MNHN-logo.jpg
-INPUT C:\Users\leroy\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT .\pictures\Rlogo-1.png
 INPUT .\pictures\Rlogo-1.png
 INPUT pictures\Rlogo-1.png
@@ -884,6 +883,7 @@ INPUT .\pictures\ArcGIS_logo.png
 INPUT .\pictures\ArcGIS_logo.png
 INPUT .\pictures\ArcGIS_logo.png
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\ec-lmss8.tfm
+INPUT C:\Users\leroy\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\leroy\AppData\Roaming\MiKTeX\tex\latex\fontawesome5\ufontawesomebrands1.fd
 INPUT C:\Users\leroy\AppData\Roaming\MiKTeX\tex\latex\fontawesome5\ufontawesomebrands1.fd
 INPUT C:\Users\leroy\AppData\Roaming\MiKTeX\tex\latex\fontawesome5\ufontawesomebrands1.fd
